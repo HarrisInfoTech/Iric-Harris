@@ -1,49 +1,57 @@
-# Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm Iric 
+<a href="https://www.linkedin.com/in/iric-harris/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I’m a security-focused technologist building real-world labs and tackling complex problems with curiosity and grit.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+## Skills → Projects
+| Skill / Focus                                      | Associated Project |
+|----------------------------------------------------|--------------------|
+| **Elastic Stack install & hardening (Vultr, UFW)** | <a href="https://github.com/HarrisInfoTech/elasticsearch-kibana-vultr-setup">Elasticsearch + Kibana on Vultr</a> |
+| **Sysmon deployment (Olaf config) & validation**   | <a href="https://github.com/HarrisInfoTech/sysmon-olaf-windows-2022-setup">Sysmon v15.15 on Windows 2022</a> |
+| **Windows logs → Elasticsearch (Sysmon/Defender)** | <a href="https://github.com/HarrisInfoTech?tab=repositories&q=windows%20logs%20elasticsearch">Custom Windows Event Logs in Elastic</a> |
+| **Active Directory: new forest, user, domain join**| <a href="https://github.com/HarrisInfoTech?tab=repositories&q=active%20directory">AD DS Lab (MYDFIR.local)</a> |
+| **Splunk Enterprise + Windows UF (Security/AD/DNS)** | <a href="https://github.com/HarrisInfoTech?tab=repositories&q=splunk">Splunk on Ubuntu + Universal Forwarders</a> |
+| **Detection engineering (4624/10 RDP success alert)** | <a href="https://github.com/HarrisInfoTech?tab=repositories&q=4624">Splunk Scheduled Alert — RDP Logon</a> |
+| **Elastic Agent enrollment on Ubuntu (Fleet)**     | <a href="https://github.com/HarrisInfoTech?tab=repositories&q=elastic%20agent%20ubuntu">Ubuntu 24.04 → Elastic Fleet</a> |
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+> Full repo list: <a href="https://github.com/HarrisInfoTech">github.com/HarrisInfoTech</a>
 
-### Network
+## Tools I use
+### SIEM / Logging
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kibana-005571?&style=for-the-badge&logo=Kibana&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
-### Endpoint
+### Endpoint & Windows
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Sysmon-5A2D81?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft_Defender-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Active_Directory-2672EC?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
-### SIEM
+### Linux / Cloud / Networking
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ubuntu-EB5E28?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vultr-007BFC?&style=for-the-badge&logo=v&logoColor=white" />
+  <img src="https://img.shields.io/badge/-UFW-333333?&style=for-the-badge&logoColor=white" />
 </div>
+
+### Scripting / Workflow
+<div>
+  <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bash-121011?&style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" />
+</div>
+
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
