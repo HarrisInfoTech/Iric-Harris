@@ -64,6 +64,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
   </a>
 </div>
 
+- Verify: [Security+](<https://www.credly.com/badges/bb858754-c970-4e0c-9bcc-71cd6f48397e/public_url>) · [Network+](<https://www.credly.com/badges/5e303e85-fcd8-4f4b-a109-ded67a420fd8/public_url>)
+
 
 ## Projects
 - Detection Lab
