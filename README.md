@@ -67,6 +67,18 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - Verify: [Security+](<https://www.credly.com/badges/bb858754-c970-4e0c-9bcc-71cd6f48397e/public_url>) · [Network+](<https://www.credly.com/badges/5e303e85-fcd8-4f4b-a109-ded67a420fd8/public_url>)
 
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+## Highlighted Projects
+- **Elasticsearch + Kibana on Vultr** — secure setup, UFW + cloud firewall  
+- **Sysmon (Olaf) on Windows Server 2022** — install + Event IDs 1/3/11 proof  
+- **Windows → Elastic (Sysmon & Defender)** — Custom Windows Event Logs integration  
+- **Active Directory (MYDFIR.local)** — promote DC, create user, domain join (DNS fix)  
+- **Splunk Enterprise + Universal Forwarders** — Security/AD/DNS telemetry on :9997  
+- **RDP Success Alert (4624/10)** — scheduled Splunk alert, VPN test traffic  
+- **Ubuntu 24.04 + Elastic Agent (Fleet)** — new Linux host enrolled, verified in Discover
+
+---
+
+## How I work
+- **Documented & reproducible:** every repo has a README with commands, screenshots, and a validation step.
+- **Defensive mindset:** least-privilege firewall rules by default; temporary relaxations only for testing.
+- **Evidence-driven:** I include queries (KQL/SPL) and screenshots proving data flow.
